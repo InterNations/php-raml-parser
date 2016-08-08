@@ -17,7 +17,7 @@
       "Raml\\": "src/"
     }
   },
-  
+
   "require-dev": {
     "satooshi/php-coveralls": "~0.6",
     "phpunit/phpunit": "4.*",
@@ -25,10 +25,10 @@
   },
 
   "require": {
-    "php": ">=5.4",
+    "php": ">=5.5.9",
     "justinrainbow/json-schema": "~1.5",
-    "symfony/yaml": "~2.6",
-    "symfony/routing": "~2.5",
+    "symfony/yaml": "^3.1",
+    "symfony/routing": "^3.1",
     "oodle/inflect": "~0.2"
   }
 }
